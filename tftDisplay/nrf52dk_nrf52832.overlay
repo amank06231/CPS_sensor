@@ -59,7 +59,7 @@
 };
 
 
-/* Enable for Node Configuration Only */
+/* Enable Only When Configuring with Node */
 
 // &pinctrl {
 //     uart0_default: uart0_default {
